@@ -34,7 +34,7 @@ Si tienes alguna mejora o sugerencia para este proyecto, siéntete libre de cont
 
 ## Documentacion del proyecto
 
-Drive: https://drive.google.com/file/d/1EHNUMb8-uUNfCT90x-n5Cfk5UFFqeANq/view?usp=sharing
+Drive: https://drive.google.com/file/d/1Qjk1c5Iw_dx7woDPwbSWOPJxA23U31ul/view?usp=drive_link
 
 
 ¡Gracias por utilizar el Dispensador de Alimento para Mascotas!
